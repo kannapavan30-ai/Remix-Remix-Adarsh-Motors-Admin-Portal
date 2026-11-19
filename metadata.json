@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Adarsh Motors Admin Portal",
+  "description": "A secure, dark-themed operations dashboard for managing inventory, CRM leads, billing, and staff access via Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
